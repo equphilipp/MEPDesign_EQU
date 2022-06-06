@@ -12,15 +12,13 @@ In the end Reload PyRevit!
 
 # Update the extension
 
-
-## Automatic
-
-Use pyRevit update function
+Do the same as in "Getting Started" as soon as the repository is updated
 
 ## Functions
 
 Here is a short description of the existing functions:
-*  PipeSplit: Split pipes by points and distances.
+*  PipeSplit: Split either selected pipes or pipes in current view according to defined length and parameter
+*  PipeDuct: Split either selected ducts or ducts in current view according to defined length and parameter
 
 
 # Authors
@@ -30,6 +28,7 @@ Here is a short description of the existing functions:
 [<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384005.svg" width="30"/>](https://www.facebook.com/engenheiro.hidraulico)
 [<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384015.svg" width="30"/>](https://www.instagram.com/engenheiro.hidraulico/)
 [<img src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg" width="30"/>](https://www.linkedin.com/in/andre-rodrigues-da-silva/)
+**Philipp** : All credit to André
 
 # License
 This project is licensed under the Apache License 2.0 - see the [LICENSE FILE ](https://github.com/andrerdsilva/MEPDesign/blob/main/LICENSE) for details.
