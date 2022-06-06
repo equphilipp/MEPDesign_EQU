@@ -4,7 +4,7 @@
 __context__ = 'zero-doc'
 
 __title__ = 'About'
-__author__ = 'André Rodrigues da Silva'
+__author__ = 'André Rodrigues da Silva feat. Philipp'
 
 import webbrowser
 

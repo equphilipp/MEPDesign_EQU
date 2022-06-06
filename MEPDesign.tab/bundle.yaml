@@ -1,6 +1,7 @@
 layout:
-  - Split Pipes
-  - Code
-  - Renumber Mark
-  - Clear Mark
+  - Split Pipes in View
+  - Split Ducts in View
+  #- Code
+  #- Renumber Mark
+  #- Clear Mark
   - About
